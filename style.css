@@ -1,0 +1,36 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start, #status{
+    font-size: 22px;
+}
+
+h4{
+    background-color: white;
+    line-height: 2;
+    margin: 0;
+}
+
+.modal-content{
+    width: 90%;
+}
+
+.copy_right_footer{
+    bottom: 0;
+    background-color: grey;
+    font: white;
+    position: fixed;
+    text-align: center;
+    width:100%;
+}
